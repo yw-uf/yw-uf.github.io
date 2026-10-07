@@ -5,6 +5,7 @@ import json
 import shutil
 import argparse
 import hashlib
+import re
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA = json.loads((ROOT/'content/site.json').read_text(encoding='utf-8'))
@@ -82,7 +83,13 @@ def people():
             body += '<section class="wrap people-section"><h2>Undergraduate Researchers</h2><p class="subtle">To be updated.</p></section>'
             continue
         body += '<section class="wrap people-section"><h2>'+esc(group.replace('Master Students',"Master’s Students"))+'</h2><div class="people-grid">'
-        for p in [p for p in DATA['people'] if p['group']==group]:
+        members = [p for p in DATA['people'] if p['group']==group]
+        if group == 'Alumni':
+            def alumni_order(person):
+                years = [int(year) for year in re.findall(r'\b\d{4}\b',person.get('dates',''))]
+                return (-(years[-1] if years else 0), -(years[0] if years else 0), person['name'])
+            members.sort(key=alumni_order)
+        for p in members:
             links = ''
             for a in p['links']:
                 if a.get('kind')=='video':
