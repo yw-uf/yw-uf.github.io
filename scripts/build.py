@@ -68,7 +68,7 @@ def research(embedded=False):
         # Retain old fragment links while replacing the old project content.
         alias = '<span id="decision-making"></span>' if theme['id']=='human-guided-learning' else ('<span id="verification"></span>' if theme['id']=='reliable-planning' else '')
         papers = ''.join('<li>'+esc(p['authors'])+', “'+ (link(p['url'],esc(p['title'])) if p['url'] else esc(p['title'])) +'.” <em>'+esc(p['venue'])+'</em>'+(', '+esc(p['details']) if p.get('details') else '')+'.</li>' for p in theme['papers'])
-        body += f'<section id="{theme["id"]}" class="wrap section research-theme">{alias}<div class="theme-intro"><figure><img src="{theme["image"]}" alt="{esc(theme["image_alt"])}" width="1536" height="1024" loading="lazy"><figcaption>Conceptual illustration</figcaption></figure><div><h2>{esc(theme["title"])}</h2><p class="theme-question">{esc(theme["question"])}</p><p>{esc(theme["description"])}</p></div></div><h3>Selected work</h3><ul class="theme-papers">{papers}</ul></section>'
+        body += f'<section id="{theme["id"]}" class="wrap section research-theme">{alias}<div class="theme-intro"><figure><img src="{theme["image"]}" alt="{esc(theme["image_alt"])}" width="1536" height="1024" loading="lazy"></figure><div><h2>{esc(theme["title"])}</h2><p class="theme-question">{esc(theme["question"])}</p><p>{esc(theme["description"])}</p></div></div><h3>Selected work</h3><ul class="theme-papers">{papers}</ul></section>'
     logos = ''.join(link(s['url'],f'<img src="{s["image"]}" alt="{esc(s["name"])}" loading="lazy"><span>{esc(s["name"])}</span>','sponsor') for s in RESEARCH['sponsors'])
     body += '<section class="wrap research-more">'+link(SCHOLAR,'Full publication list on Google Scholar ↗','text-link')+'</section>'
     return body + '<section class="wrap sponsors"><h2>Sponsors</h2><div class="sponsor-row">'+logos+'</div></section>'
@@ -154,3 +154,4 @@ def build():
 
 if __name__=='__main__':
     build()
+
