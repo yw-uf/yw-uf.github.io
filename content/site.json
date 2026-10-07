@@ -1,0 +1,694 @@
+{
+  "people": [
+    {
+      "name": "Audley Tchatcheun",
+      "group": "Alumni",
+      "role": "Former Exchange Student",
+      "dates": "Summer 2023",
+      "bio": "Audley contributed to quadrotor design projects using AutoCAD and 3D printing to design and fabricate components.",
+      "image": "",
+      "links": []
+    },
+    {
+      "name": "Yu Wang",
+      "role": "Assistant Professor",
+      "group": "Principal Investigator",
+      "image": "",
+      "bio": "Yu Wang is an Assistant Professor in the Department of Mechanical and Aerospace Engineering of the University of Florida (UF) and the Group Lead in Autonomous and Connected Vehicles at UF Transportation Institute. He was a Postdoctoral Associate at the Department of Electrical and Computer Engineering at Duke University. He received his Ph.D. degree in Mechanical Engineering and M.S. degrees in Statistics and Mathematics from the University of Illinois at Urbana-Champaign (UIUC). His research focuses on assured autonomy for cyber-physical and robotic systems.",
+      "links": []
+    },
+    {
+      "name": "Zetong Xuan",
+      "role": "Ph.D. Student",
+      "group": "Ph.D. Students",
+      "image": "",
+      "bio": "Zetong Xuan received his Bachelor’s degree in Aircraft Design and Engineering in 2019 from Nanjing University of Aeronautics and Astronautics, China, and his Master of Science degree in Mechanical Engineering in Dec 2021 from the University of Florida. He is currently pursuing a Ph.D. degree in Mechanical Engineering under the guidance of Dr. Yu Wang. His research interests include control theory and reinforcement learning.",
+      "links": [],
+      "dates": "2022–present"
+    },
+    {
+      "name": "Nathaniel Smith",
+      "role": "Ph.D. Student",
+      "group": "Ph.D. Students",
+      "image": "",
+      "bio": "Nathaniel Smith received his Bachelor of Science in Aerospace Engineering and Mathematics from the University of Florida in 2021. He is currently pursuing a Ph.D. in Aerospace Engineering under Dr. Yu Wang. He is from Jupiter, Florida. His research interests include applications of Game Theory and Reinforcement Learning to model attacks on Cyber-Physical systems.",
+      "links": [],
+      "dates": "2022–present"
+    },
+    {
+      "name": "Roop Yaswanth",
+      "group": "Master Students",
+      "role": "M.S. Student · Applied Data Science",
+      "dates": "2026–present",
+      "bio": "",
+      "image": "",
+      "links": []
+    },
+    {
+      "name": "Noah A. Touchton",
+      "group": "Alumni",
+      "role": "Former Undergraduate Researcher",
+      "dates": "2025–2026",
+      "bio": "Noah worked on machine learning in Gimkit-based environments.",
+      "image": "",
+      "links": []
+    },
+    {
+      "name": "Yu-Sheng Tseng",
+      "group": "Undergraduate Researchers",
+      "role": "Undergraduate Researcher",
+      "dates": "",
+      "bio": "",
+      "image": "",
+      "links": []
+    },
+    {
+      "name": "Timothy W. Caplice",
+      "group": "Undergraduate Researchers",
+      "role": "Undergraduate Researcher",
+      "dates": "",
+      "bio": "",
+      "image": "",
+      "links": []
+    },
+    {
+      "name": "Joseph C. Davis",
+      "group": "Undergraduate Researchers",
+      "role": "Undergraduate Researcher",
+      "dates": "",
+      "bio": "",
+      "image": "",
+      "links": []
+    },
+    {
+      "name": "Garrett M. McDilda",
+      "group": "Undergraduate Researchers",
+      "role": "Undergraduate Researcher",
+      "dates": "",
+      "bio": "",
+      "image": "",
+      "links": []
+    },
+    {
+      "name": "Dominic Walpole",
+      "group": "Undergraduate Researchers",
+      "role": "Undergraduate Researcher",
+      "dates": "",
+      "bio": "",
+      "image": "",
+      "links": []
+    },
+    {
+      "name": "Derek T. Metz",
+      "group": "Undergraduate Researchers",
+      "role": "Undergraduate Researcher",
+      "dates": "",
+      "bio": "",
+      "image": "",
+      "links": []
+    },
+    {
+      "name": "Karam Zarnatzi",
+      "group": "Undergraduate Researchers",
+      "role": "Undergraduate Researcher",
+      "dates": "",
+      "bio": "",
+      "image": "",
+      "links": []
+    },
+    {
+      "name": "Mata El Khour",
+      "group": "Undergraduate Researchers",
+      "role": "Undergraduate Researcher",
+      "dates": "",
+      "bio": "",
+      "image": "",
+      "links": []
+    },
+    {
+      "name": "Dylan L. Duenas",
+      "group": "Undergraduate Researchers",
+      "role": "Undergraduate Researcher",
+      "dates": "",
+      "bio": "",
+      "image": "",
+      "links": []
+    },
+    {
+      "name": "William D. McDaniel",
+      "group": "Undergraduate Researchers",
+      "role": "Undergraduate Researcher",
+      "dates": "",
+      "bio": "",
+      "image": "",
+      "links": []
+    },
+    {
+      "name": "Adam Lehachi",
+      "group": "Undergraduate Researchers",
+      "role": "Undergraduate Researcher",
+      "dates": "",
+      "bio": "",
+      "image": "",
+      "links": []
+    },
+    {
+      "name": "Mark O. Adewumi",
+      "group": "Undergraduate Researchers",
+      "role": "Undergraduate Researcher",
+      "dates": "",
+      "bio": "",
+      "image": "",
+      "links": []
+    },
+    {
+      "name": "Mark Yen",
+      "role": "Former M.S. Student",
+      "group": "Alumni",
+      "image": "",
+      "bio": "Mark Yen received a Bachelor of Science in Aerospace Engineering from the University of Florida in 2020 and a Master of Science in Aerospace Engineering in 2021. His research interests include reinforcement learning and neural architecture search for neural network-based controllers.",
+      "links": [],
+      "dates": "2022–2024"
+    },
+    {
+      "name": "Kawshik Selvaraj",
+      "role": "Former M.S. Student",
+      "group": "Alumni",
+      "image": "",
+      "bio": "Kawshik Selvaraj received a Bachelor of Engineering in Mechanical Engineering from Anna University, India in 2019. He was an M.S. student in Mechanical Engineering under Dr. Yu Wang. His research interests include computer vision and decision making for autonomous vehicles and robotics.",
+      "links": [],
+      "dates": "2023–2025"
+    },
+    {
+      "name": "Alexis R. Sturm",
+      "role": "Former B.S. Student",
+      "group": "Alumni",
+      "dates": "2022–2023",
+      "image": "",
+      "bio": "Alexis Sturm was a Mechanical Engineering undergraduate at the University of Florida.",
+      "links": []
+    },
+    {
+      "name": "Isabella Camacho",
+      "role": "Former B.S. Student",
+      "group": "Alumni",
+      "dates": "2022–2023",
+      "image": "",
+      "bio": "Isabella Camacho was a Mechanical Engineering undergraduate at the University of Florida. Her interests include improving the energy efficiency of cars and safety in automotive design.",
+      "links": []
+    },
+    {
+      "name": "Nathan H. Impreso",
+      "role": "Former Undergraduate Researcher · Honors Thesis",
+      "group": "Alumni",
+      "image": "",
+      "bio": "Nathan Impreso was an undergraduate researcher in Mechanical Engineering at the University of Florida. His interests include autonomous vehicle design and implementation.",
+      "links": [
+        {
+          "label": "Indoor Testbed for Autonomous Vehicles and Comparative Case Study of Pose Estimation by Motion Capture and IMU",
+          "kind": "Honors thesis (PDF)",
+          "url": "https://ufdcimages.uflib.ufl.edu/AA/00/09/84/10/00001/Impreso_Nathan_Honors_Thesis.pdf"
+        }
+      ],
+      "dates": "2022–2023"
+    },
+    {
+      "name": "Jason T. Hackett",
+      "role": "Former B.S. Student",
+      "group": "Alumni",
+      "dates": "2022–2023",
+      "image": "",
+      "bio": "Jason Hackett was a Mechanical Engineering undergraduate at the University of Florida. He is from Branford, Connecticut. His interests include CAD, engineering design, and model vehicles.",
+      "links": []
+    },
+    {
+      "name": "Daeyun (Key) Gi",
+      "role": "Former M.S. Student",
+      "group": "Alumni",
+      "image": "",
+      "bio": "Daeyun Gi received a Bachelor of Engineering in Mechanical Engineering from Incheon National University, South Korea, in 2020. His research interests include computer vision, object detection for autonomous vehicles, and visual simultaneous localization and mapping for mobile robots.",
+      "links": [
+        {
+          "label": "Conformance Test of Point Cloud Data from ORB-SLAM3",
+          "url": "https://ufl-flvc.primo.exlibrisgroup.com/permalink/01FALSC_UFL/6ad6fc/alma99384164117606597"
+        }
+      ],
+      "dates": "2022–2024"
+    },
+    {
+      "name": "Sippapas (Ken) Sukpholtham",
+      "role": "Former M.S. Student",
+      "group": "Alumni",
+      "image": "",
+      "bio": "Sippapas Sukpholtham received a Bachelor of Engineering in Mechanical Engineering from Chulalongkorn University, Thailand, in 2019. His research interests include cyber-physical systems in autonomous vehicles and reinforcement learning.",
+      "links": [
+        {
+          "label": "The Stealthy-Controllable Attack with a Learning-Based Model in Cyber-Physical Systems",
+          "url": "https://ufl-flvc.primo.exlibrisgroup.com/permalink/01FALSC_UFL/6ad6fc/alma99384133072206597"
+        }
+      ],
+      "dates": "2022–2024"
+    },
+    {
+      "name": "Quang Pham",
+      "group": "Alumni",
+      "role": "Former Undergraduate Researcher · Honors Thesis",
+      "dates": "2025–2026",
+      "bio": "",
+      "image": "",
+      "links": [
+        {
+          "label": "Video",
+          "kind": "video",
+          "url": "assets/videos/quang-pham-quadruped-demo.mp4"
+        }
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "type": "Journal Articles",
+      "citation": "Z. Xuan, Y. Wang, “How hard is it to solve constrained sc-LTL planning problems?,” submitted to IEEE Transactions on Automatic Control, 2025.",
+      "year": 2025,
+      "links": [
+        {
+          "label": "How hard is it to solve constrained sc-LTL planning problems?",
+          "url": "https://faculty.eng.ufl.edu/smart-autonomy-lab/wp-content/uploads/sites/751/2025/07/Planning_for_LTL_with_constraints.pdf"
+        }
+      ]
+    },
+    {
+      "type": "Journal Articles",
+      "citation": "N. Smith, Y. Wang, “Data driven Supervisory Control under Sensor and Actuator Attacks via Spectral Learning,” submitted to IEEE Transactions on Automatic Control, 2025.",
+      "year": 2025,
+      "links": [
+        {
+          "label": "Data driven Supervisory Control under Sensor and Actuator Attacks via Spectral Learning",
+          "url": "https://faculty.eng.ufl.edu/smart-autonomy-lab/wp-content/uploads/sites/751/2025/07/Data_driven_Supervisory_Control_under_Sensor_and_Actuator_Attacks_via_Spectral_Learning.pdf"
+        }
+      ]
+    },
+    {
+      "type": "Journal Articles",
+      "citation": "Y. Wang, H. Sibai, M. Yen, S. Mitra, and G. E. Dullerud, “Differentially private algorithms for statistical verification of cyber-physical systems,” IEEE Open Journal of Control Systems, vol. 1, pp. 294-305, 2022.",
+      "year": 2022,
+      "links": []
+    },
+    {
+      "type": "Journal Articles",
+      "citation": "Y. Wang, N. Roohi, M. West, M. Viswanathan, and G. E. Dullerud, “Verifying stochastic hybrid systems with temporal logic specifications via model reduction,” ACM Transactions on Embedded Computing Systems, vol. 20, no. 6, p. 113:1-113:27, 2021.",
+      "year": 2021,
+      "links": []
+    },
+    {
+      "type": "Journal Articles",
+      "citation": "Y. Wang, X. Bi, and A. Qu, “A logistic factorization model for recommender systems with multinomial responses,” Journal of Computational and Graphical Statistics, vol. 29, no. 2, pp. 396–404, 2020.",
+      "year": 2020,
+      "links": []
+    },
+    {
+      "type": "Journal Articles",
+      "citation": "Y. Wang, M. Zarei, B. Bonakdarpour, and M. Pajic, “Statistical verification of hyperproperties for cyber-physical systems,” ACM Transactions on Embedded Computing Systems, vol. 18, no. 5s, pp. 1–23, 2019.",
+      "year": 2019,
+      "links": []
+    },
+    {
+      "type": "Journal Articles",
+      "citation": "Y. Wang, N. Roohi, M. West, M. Viswanathan, and G. E. Dullerud, “Statistical verification of PCTL using antithetic and stratified samples,” Formal Methods in System Design, vol. 54, pp. 145–163, 2019.",
+      "year": 2019,
+      "links": []
+    },
+    {
+      "type": "Journal Articles",
+      "citation": "Y. Wang, N. Roohi, G. E. Dullerud, and M. Viswanathan, “Stability analysis of switched linear systems defined by regular languages,” IEEE Transactions on Automatic Control, vol. 62, no. 5, pp. 2568–2575, 2017.",
+      "year": 2017,
+      "links": []
+    },
+    {
+      "type": "Journal Articles",
+      "citation": "Y. Wang, Z. Huang, S. Mitra, and G. E. Dullerud, “Differential privacy in linear distributed control systems: entropy minimizing mechanisms and performance tradeoffs,” IEEE Transactions on Control of Network Systems, vol. 4, no. 1, pp. 118–130, 2017.",
+      "year": 2017,
+      "links": []
+    },
+    {
+      "type": "Conference Proceedings",
+      "citation": "Z. Xuan, A. K. Bozkurt, M. Pajic, Y. Wang, “On the Uniqueness of Solution for the Bellman Equation of LTL Objectives,” in Proceedings of Machine Learning Research, 2024.",
+      "year": 2024,
+      "links": [
+        {
+          "label": "On the Uniqueness of Solution for the Bellman Equation of LTL Objectives",
+          "url": "https://faculty.eng.ufl.edu/smart-autonomy-lab/wp-content/uploads/sites/751/2023/12/Unique_Solution_for_the_Bellman_Equation_of_LTL_Objectives.pdf"
+        }
+      ]
+    },
+    {
+      "type": "Conference Proceedings",
+      "citation": "M. Yen, G. E. Dullerud, Y. Wang, “Statistical Verification of Traffic Systems with Expected Differential Privacy,” in American Control Conference, 2023, pp. 3496-3501.",
+      "year": 2023,
+      "links": []
+    },
+    {
+      "type": "Conference Proceedings",
+      "citation": "Y. Wang, Q. Gao, and M. Pajic, “Learning monotone dynamics by neural networks,” in American Control Conference, 2022, p. to appear.",
+      "year": 2022,
+      "links": []
+    },
+    {
+      "type": "Conference Proceedings",
+      "citation": "A. Khazraei, S. Hallyburton, Q. Gao, Y. Wang, and M. Pajic, “Learning-based vulnerability analysis of cyber-physical systems,” in ACM/IEEE International Conference on Cyber-Physical Systems, Milan, Italy, 2022, pp. 259–269.",
+      "year": 2022,
+      "links": []
+    },
+    {
+      "type": "Conference Proceedings",
+      "citation": "Y. Wang, M. Zarei, B. Bonakdarpoor, and M. Pajic, “Probabilistic conformance for cyber-physical systems,” in ACM/IEEE 12th International Conference on Cyber-Physical Systems, 2021, pp. 55–66.",
+      "year": 2021,
+      "links": []
+    },
+    {
+      "type": "Conference Proceedings",
+      "citation": "Y. Wang, S. Nalluri, B. Bonakdarpour, and M. Pajic, “Statistical model checking for hyperproperties,” in IEEE Computer Security Foundations Symposium, Dubrovnik, Croatia, 2021, pp. 1–16.",
+      "year": 2021,
+      "links": []
+    },
+    {
+      "type": "Conference Proceedings",
+      "citation": "A. K. Bozkurt, Y. Wang, M. Zavlanos, and M. Pajic, “Model-free reinforcement learning for stochastic games with linear temporal logic objectives,” in IEEE International Conference on Robotics and Automation, 2021, pp. 10649–10655.",
+      "year": 2021,
+      "links": []
+    },
+    {
+      "type": "Conference Proceedings",
+      "citation": "A. K. Bozkurt, Y. Wang, and M. Pajic, “Secure planning against stealthy attacks via model-free reinforcement learning,” in IEEE International Conference on Robotics and Automation, 2021, pp. 10656–10662.",
+      "year": 2021,
+      "links": []
+    },
+    {
+      "type": "Conference Proceedings",
+      "citation": "A. K. Bozkurt, Y. Wang, and M. Pajic, “Model-free learning of safe yet effective controllers,” in IEEE Conference on Decision and Control, 2021, pp. 6560–6565.",
+      "year": 2021,
+      "links": []
+    },
+    {
+      "type": "Conference Proceedings",
+      "citation": "M. Zarei, Y. Wang, and M. Pajic, “Statistical verification of learning-based cyber-physical systems,” in ACM International Conference on Hybrid Systems: Computation and Control, Sydney, Australia, 2020, pp. 1–7.",
+      "year": 2020,
+      "links": []
+    },
+    {
+      "type": "Conference Proceedings",
+      "citation": "Y. Wang, N. Roohi, M. West, M. Viswanathan, and G. E. Dullerud, “Statistically model checking PCTL specifications on Markov decision processes via reinforcement learning,” in IEEE Conference on Decision and Control, 2020, pp. 1392–1397.",
+      "year": 2020,
+      "links": []
+    },
+    {
+      "type": "Conference Proceedings",
+      "citation": "Y. Wang and M. Pajic, “Hyperproperties for robotics: motion planning via HyperLTL,” in IEEE International Conference on Robotics and Automation, Paris, France, 2020, pp. 8462–8468.",
+      "year": 2020,
+      "links": []
+    },
+    {
+      "type": "Conference Proceedings",
+      "citation": "N. Roohi, Y. Wang, M. West, G. E. Dullerud, and M. Viswanathan, “STMC: statistical model checker with stratified and antithetic sampling,” in Computer aided verification, Cham, 2020, pp. 448–460.",
+      "year": 2020,
+      "links": []
+    },
+    {
+      "type": "Conference Proceedings",
+      "citation": "K. H. Kim et al., “Security analysis against spoofing attacks for distributed UAVs,” in Workshop on Decentralized IoT Systems and Security, San Diego, 2020, pp. 1–6.",
+      "year": 2020,
+      "links": []
+    },
+    {
+      "type": "Conference Proceedings",
+      "citation": "M. Elfar, Y. Wang, and M. Pajic, “Context-aware temporal logic for probabilistic systems,” in International Symposium on Automated Technology for Verification and Analysis, Hanoi, Vietnam, 2020, pp. 215–232.",
+      "year": 2020,
+      "links": []
+    },
+    {
+      "type": "Conference Proceedings",
+      "citation": "A. K. Bozkurt, Y. Wang, M. Zavlanos, and M. Pajic, “Control synthesis from linear temporal logic specifications using model-free reinforcement learning,” in IEEE International Conference on Robotics and Automation, Paris, France, 2020, pp. 10349–10355.",
+      "year": 2020,
+      "links": []
+    },
+    {
+      "type": "Conference Proceedings",
+      "citation": "Y. Wang, M. Zarei, B. Bonakdarpour, and M. Pajic, “Statistical verification of hyperproperties for cyber-physical systems,” ACM Transactions on Embedded Computing Systems, vol. 18, no. 5s, pp. 1–23, 2019.",
+      "year": 2019,
+      "links": []
+    },
+    {
+      "type": "Conference Proceedings",
+      "citation": "Y. Wang and M. Pajic, “Supervisory control of discrete event systems in the presence of sensor and actuator attacks,” in IEEE Conference on Decision and Control, Nice, France, 2019, pp. 5350–5355.",
+      "year": 2019,
+      "links": []
+    },
+    {
+      "type": "Conference Proceedings",
+      "citation": "Y. Wang and M. Pajic, “Attack-resilient supervisory control with intermittently secure communication,” in IEEE Conference on Decision and Control, Nice, France, 2019, pp. 2015–2020.",
+      "year": 2020,
+      "links": []
+    },
+    {
+      "type": "Conference Proceedings",
+      "citation": "M. Elfar, Y. Wang, and M. Pajic, “Security-aware synthesis using delayed-action games,” in International Conference on Computer-Aided Verification (CAV), New York, NY, 2019, pp. 180–199.",
+      "year": 2019,
+      "links": []
+    },
+    {
+      "type": "Conference Proceedings",
+      "citation": "Y. Wang, N. Roohi, M. West, M. Viswanathan, and G. E. Dullerud, “Statistical verification of PCTL using stratified samples,” in IFAC Conference on Analysis and Design of Hybrid Systems, IFAC-PapersOnLine, Oxford, UK, 2018, vol. 51, pp. 85–90.",
+      "year": 2018,
+      "links": []
+    },
+    {
+      "type": "Conference Proceedings",
+      "citation": "Y. Wang, S. Mitra, and G. E. Dullerud, “Differential privacy and minimum-variance unbiased estimation in multi-agent control systems,” in IFAC World Congress, IFAC-PapersOnLine, 2017, vol. 50, pp. 9521–9526.",
+      "year": 2017,
+      "links": []
+    },
+    {
+      "type": "Conference Proceedings",
+      "citation": "N. Roohi, Y. Wang, M. West, G. E. Dullerud, and M. Viswanathan, “Statistical verification of the toyota powertrain control verification benchmark,” in ACM International Conference on Hybrid Systems: Computation and Control (HSCC), New York, NY, USA, 2017, pp. 65–70.",
+      "year": 2017,
+      "links": []
+    },
+    {
+      "type": "Conference Proceedings",
+      "citation": "Y. Wang, N. Roohi, M. West, M. Viswanathan, and G. E. Dullerud, “Verifying continuous-time stochastic hybrid systems via Mori-Zwanzig model reduction,” in IEEE Conference on Decision and Control, 2016, pp. 3012–3017.",
+      "year": 2016,
+      "links": []
+    },
+    {
+      "type": "Conference Proceedings",
+      "citation": "Y. Wang, H. Hale Matthew, M. Egerstedt, and G. E. Dullerud, “Differentially private objective functions in distributed cloud-based optimization,” in IEEE Conference on Decision and Control, 2016, pp. 3688–3694.",
+      "year": 2016,
+      "links": []
+    },
+    {
+      "type": "Conference Proceedings",
+      "citation": "Z. Huang, Y. Wang, S. Mitra, and G. E. Dullerud, “Controller synthesis for linear dynamical systems with adversaries,” in ACM Symposium and Bootcamp on the Science of Security, Pittsburgh, PA, 2016, pp. 53–62.",
+      "year": 2016,
+      "links": []
+    },
+    {
+      "type": "Conference Proceedings",
+      "citation": "Y. Wang, N. Roohi, M. West, M. Viswanathan, and G. E. Dullerud, “Statistical verification of dynamical systems using set oriented methods,” in ACM International Conference on Hybrid Systems: Computation and Control, New York, NY, USA, 2015, pp. 169–178.",
+      "year": 2015,
+      "links": []
+    },
+    {
+      "type": "Conference Proceedings",
+      "citation": "Y. Wang, N. Roohi, M. West, M. Viswanathan, and G. E. Dullerud, “A Mori-Zwanzig and MITL based approach to statistical verification of continuous-time dynamical systems,” in IFAC Conference on Analysis and Design of Hybrid Systems, Atlanta, GA, 2015, vol. 48, pp. 267–273.",
+      "year": 2015,
+      "links": []
+    },
+    {
+      "type": "Conference Proceedings",
+      "citation": "Z. Huang, Y. Wang, S. Mitra, G. E. Dullerud, and S. Chaudhuri, “Controller synthesis with inductive proofs for piecewise linear systems: an SMT-based algorithm,” in IEEE Conference on Decision and Control, 2015, pp. 7434–7439.",
+      "year": 2015,
+      "links": []
+    },
+    {
+      "type": "Conference Proceedings",
+      "citation": "Y. Wang, N. Roohi, G. E. Dullerud, and M. Viswanathan, “Stability of linear autonomous systems under regular switching sequences,” in IEEE Conference on Decision and Control, 2014, pp. 5445–5450.",
+      "year": 2014,
+      "links": []
+    },
+    {
+      "type": "Conference Proceedings",
+      "citation": "Y. Wang, Z. Huang, S. Mitra, and G. E. Dullerud, “Entropy-minimizing mechanism for differential privacy of discrete-time linear feedback systems,” in IEEE Conference on Decision and Control, 2014, pp. 2130–2135.",
+      "year": 2014,
+      "links": []
+    },
+    {
+      "type": "Conference Proceedings",
+      "citation": "Z. Huang, Y. Wang, S. Mitra, and G. E. Dullerud, “On the cost of differential privacy in distributed control systems,” in International Conference on High Confidence Networked Systems, 2014, pp. 105–114.",
+      "year": 2014,
+      "links": []
+    },
+    {
+      "type": "Workshop Presentations",
+      "citation": "N. Smith, N. Hirsch, and Y. Wang, “Human-feedback guided reinforcement learning for unknown temporal tasks via weighted finite automata,” in International Conference on Machine Learning.",
+      "year": null,
+      "links": [
+        {
+          "label": "Human-feedback guided reinforcement learning for unknown temporal tasks via weighted finite automata",
+          "url": "https://faculty.eng.ufl.edu/smart-autonomy-lab/wp-content/uploads/sites/751/2025/07/ICML_MoFA_camera_ready.pdf"
+        }
+      ]
+    }
+  ],
+  "research": [
+    {
+      "title": "Assured autonomous decision-making with machine learning",
+      "paragraphs": [
+        "Next-generation autonomous systems (e.g., drones and robots) should operate smartly in contested environments. They should be able to get high-level instructions from humans and automatically create control policies to carry them out even under unknown environmental disturbances and adversarial attacks. The high-level instructions may vary depending on the application and can contain numerous (sub)tasks that are logically dependent on each other. For example, a service robot may need to investigate different terrains in differential time constraints while remaining safe from possible hazards. This project developed general-purpose algorithms to create control policies automatically, applicable to a wide class of autonomous systems applications. These algorithms can understand any high-level human instructions expressable by a class of formal logical formulas and create optimal control policies from machine learning. The use of machine learning ensures that high-level instructions are fulfilled even in the presence of unknown environmental disturbances and adversarial attacks. The proposed algorithms are implemented by open-source software tools, which can successfully solve control problems for service and industrial robots."
+      ],
+      "image": "assets/images/ltl-300x140.png"
+    },
+    {
+      "title": "Data-driving verification of cyber-physical systems",
+      "paragraphs": [
+        "Modern control systems rely on computer programs on cyber devices (e.g., embedded computers) to control physical plants (e.g., drones or robots) to perform various complex tasks. These computer programs are typically developed in ideal simulated environments and tend to fail in real physical environments due to disturbances and attacks that are unknown beforehand. To fill this sim-to-real gap, engineers must verify whether the controlled systems can still fulfill the tasks under the possible disturbances and attacks. Previously, such a process is performed case-by-case with high costs of human labor. This project developed general-purpose data-driven verification methods to verify a wide class of controlled systems designed for different tasks. The proposed methods are based on machine learning and logical reasoning from the controlled system paths. They can provide provable statistical guarantees on the result without knowing the system’s dynamic model. The project also implemented the proposed methods with open-source software tools and demonstrated its superior efficiency over existing methods on a wide range of benchmarks."
+      ],
+      "image": "assets/images/stmc-1-300x215.png"
+    }
+  ],
+  "news": [
+    {
+      "category": "Awards",
+      "text": "December 15, 2023 – Nathaniel Smith graduated with a Master of Science in Aerospace Engineering! Congrats! He will continue his education and pursue a Ph.D.! https://twitter.com/SmartAutonomy/status/1737221909056831870",
+      "links": [
+        {
+          "label": "https://twitter.com/SmartAutonomy/status/1737221909056831870",
+          "url": "https://twitter.com/SmartAutonomy/status/1737221909056831870"
+        }
+      ]
+    },
+    {
+      "category": "Awards",
+      "text": "December 14, 2023 – The paper “Spatial Knowledge-Infused Hierarchical Learning: An Application in Flood Mapping on Earth Imagery,” co-authored by Dr. Yu Wang, received the best paper award for the 31st Association for Computer Machinery SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL)! Read more about it here.",
+      "links": [
+        {
+          "label": "Spatial Knowledge-Infused Hierarchical Learning: An Application in Flood Mapping on Earth Imagery",
+          "url": "https://web3.arxiv.org/abs/2312.07767"
+        },
+        {
+          "label": "here",
+          "url": "https://www.cise.ufl.edu/dr-zhe-jiangs-team-received-best-paper-award-at-sigspatial-2023/"
+        }
+      ]
+    },
+    {
+      "category": "Awards",
+      "text": "August 11, 2023 – Daeyun Gi graduated with a Master of Science in Aerospace Engineering! Congrats! https://twitter.com/SmartAutonomy/status/1692236210138157536",
+      "links": [
+        {
+          "label": "https://twitter.com/SmartAutonomy/status/1692236210138157536",
+          "url": "https://twitter.com/SmartAutonomy/status/1692236210138157536"
+        }
+      ]
+    },
+    {
+      "category": "Awards",
+      "text": "May 5, 2023 – Sippapas Sukpholtham graduated with a Master of Science in Mechanical Engineering! Congrats! https://t.co/MFmO6mjWFY",
+      "links": [
+        {
+          "label": "https://t.co/MFmO6mjWFY",
+          "url": "https://twitter.com/SmartAutonomy/status/1655311098482941952"
+        }
+      ]
+    },
+    {
+      "category": "Awards",
+      "text": "April 27, 2023 – Sippapas Sukpholtham received the 2023 MAE Knox T. Millsaps Outstanding Teaching Assistant Award for his contributions in assisting students with their studies in EML4312 Control of Mechanical Engineering Systems. https://t.co/cXmTGtkiOF",
+      "links": [
+        {
+          "label": "https://t.co/cXmTGtkiOF",
+          "url": "https://twitter.com/SmartAutonomy/status/1651766505124810752"
+        }
+      ]
+    },
+    {
+      "category": "Awards",
+      "text": "April 7, 2023 – Nathaniel Smith received a travel scholarship for the AI in Clinical Care workshop 2023 where he will experience hands-on applications of AI in clinical care via interactive Python programming notebooks.",
+      "links": [
+        {
+          "label": "AI in Clinical Care workshop 2023",
+          "url": "https://ai.cme.ufl.edu/ai-for-clinical-care-workshop/"
+        }
+      ]
+    },
+    {
+      "category": "Awards",
+      "text": "March 7, 2023 – Mark Yen received a Student Travel Grant for the American Control Conference (ACC) 2023 to present his paper on Statistical Verification of Traffic Systems with Expected Differential Privacy.",
+      "links": [
+        {
+          "label": "American Control Conference (ACC) 2023",
+          "url": "https://acc2023.a2c2.org/"
+        }
+      ]
+    },
+    {
+      "category": "Talks/Posters",
+      "text": "June 2, 2023 – “Statistical Verification of Traffic Systems with Expected Differential Privacy”, American Control Conference (ACC) 2023 (talk) by Mark Yen.",
+      "links": [
+        {
+          "label": "American Control Conference (ACC) 2023",
+          "url": "https://acc2023.a2c2.org/"
+        }
+      ]
+    },
+    {
+      "category": "Talks/Posters",
+      "text": "February 20-21, 2023 – “Physics-Informed Deep Learning for Parametric Nonlinear Optimal Control”, Southeast Control Conference (SECC) 2023 (poster) by Zetong Xuan.",
+      "links": [
+        {
+          "label": "Southeast Control Conference (SECC) 2023",
+          "url": "https://secc.mae.ufl.edu/"
+        }
+      ]
+    },
+    {
+      "category": "Talks/Posters",
+      "text": "February 20-21, 2023 – “Attack Resilient Supervisory Control of Cyberphysical Systems”, Southeast Control Conference (SECC) 2023 (poster) by Nathaniel Smith.",
+      "links": [
+        {
+          "label": "Southeast Control Conference (SECC) 2023",
+          "url": "https://secc.mae.ufl.edu/"
+        }
+      ]
+    },
+    {
+      "category": "Talks/Posters",
+      "text": "February 20-21, 2023 – “NAS4AC: Neural Architecture Search for Adaptive Control”, Southeast Control Conference (SECC) 2023 (talk) by Mark Yen.",
+      "links": [
+        {
+          "label": "Southeast Control Conference (SECC) 2023",
+          "url": "https://secc.mae.ufl.edu/"
+        }
+      ]
+    },
+    {
+      "category": "Talks/Posters",
+      "text": "January 13-14, 2023 – “NAS4AC: Neural Architecture Search for Adaptive Control”, UF Winter Workshop on Modern Computational Statistics 2023 (poster) by Mark Yen.",
+      "links": [
+        {
+          "label": "UF Winter Workshop on Modern Computational Statistics 2023",
+          "url": "https://informatics.research.ufl.edu/event/statistics-annual-winter-workshop-2023/"
+        }
+      ]
+    },
+    {
+      "category": "Talks/Posters",
+      "text": "December 14-16, 2022 – “Statistical Verification of Traffic Systems with Expected Differential Privacy”, Florida Automated Vehicle (FAV) Summit 2022 (poster) by Mark Yen.",
+      "links": [
+        {
+          "label": "Florida Automated Vehicle (FAV) Summit 2022",
+          "url": "https://favsummit.com/?event=2022-fav-summit"
+        }
+      ]
+    }
+  ]
+}

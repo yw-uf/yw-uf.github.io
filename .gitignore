@@ -1,0 +1,9 @@
+_site/
+.claude/
+__pycache__/
+migration/sources/
+migration/sponsors/
+migration/
+assets/images/
+node_modules/
+*.log

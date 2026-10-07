@@ -1,0 +1,113 @@
+{
+  "introduction": "We develop learning and control methods that help embodied agents understand human intent, learn physical dynamics, and act reliably under uncertainty.",
+  "themes": [
+    {
+      "id": "physical-dynamics",
+      "title": "Learning Physical Dynamics",
+      "question": "How can we learn how physical systems evolve from imperfect observations?",
+      "description": "Physical systems are shaped by uncertainty, history, and interactions that can be difficult to capture with a fixed model. We study data-driven representations of dynamical systems, including signature methods and Koopman learning, to model their evolution from noisy or partially observed trajectories. This work builds foundations for prediction and control in physical AI.",
+      "papers": [
+        {
+          "title": "Signature–Koopman Learning from Noisy/Partial State Measurements for Rough-Path-Driven Stochastic Dynamics",
+          "venue": "Proceedings of the IEEE Conference on Decision and Control (CDC)",
+          "url": "",
+          "authors": "Haowei Chen, Rushikesh Kamalapurkar, Joel A. Rosenfeld, and Yu Wang",
+          "details": "2026"
+        },
+        {
+          "title": "Universal Signature Kernel for Data-Driven Path-to-Path Modeling",
+          "venue": "Proceedings of the 27th International Symposium on Mathematical Theory of Networks and Systems (MTNS)",
+          "url": "",
+          "authors": "Haowei Chen, Rushikesh Kamalapurkar, Joel A. Rosenfeld, and Yu Wang",
+          "details": "2026"
+        }
+      ],
+      "image": "assets/research/physical-dynamics.png",
+      "image_alt": "Conceptual illustration of a robotic arm with observed and uncertain motion trajectories."
+    },
+    {
+      "id": "human-guided-learning",
+      "title": "Human-Guided Learning and Decision-Making",
+      "question": "How can an agent understand what people want and act with incomplete information?",
+      "description": "An intelligent agent must learn the task as well as the environment. We investigate how human preferences can teach complex temporal behaviors without requiring explicit logical specifications, and how agents can plan perception-related tasks under partial observability. Our work connects human feedback, task representations, and decision-making under uncertainty.",
+      "papers": [
+        {
+          "title": "Human Feedback Guided Reinforcement Learning for Unknown Temporal Tasks via Weighted Finite Automata",
+          "venue": "ICML Workshop on Models of Human Feedback for AI Alignment",
+          "url": "https://openreview.net/pdf?id=MpWkf0l91m",
+          "authors": "Nathaniel Smith, Nicholas Hirsch, and Yu Wang",
+          "details": "Vancouver, Canada, July 2025"
+        },
+        {
+          "title": "Control Synthesis in Partially Observable Environments for Complex Perception-related Objectives",
+          "venue": "IEEE Control Systems Letters",
+          "url": "https://arxiv.org/abs/2507.02942",
+          "authors": "Zetong Xuan and Yu Wang",
+          "details": "vol. 9, pp. 1724–1729, 2025"
+        }
+      ],
+      "image": "assets/research/human-guided-learning.png",
+      "image_alt": "Conceptual illustration of a human guiding a mobile robot to choose between two routes."
+    },
+    {
+      "id": "reliable-planning",
+      "title": "Reliable Planning and Control",
+      "question": "How can learning agents accomplish complex tasks while respecting safety constraints?",
+      "description": "We combine reinforcement learning, formal task specifications, and control theory to develop policies with explicit guarantees. Our research addresses constrained planning, convergence of model-free learning, and the mathematical foundations of temporal-logic objectives. These methods support reliable decisions when tasks extend over time and objectives must be balanced against safety requirements.",
+      "papers": [
+        {
+          "title": "Optimal Constrained sc-LTL Planning in MDPs via Switching Policies",
+          "venue": "IEEE Transactions on Automatic Control",
+          "url": "https://arxiv.org/abs/2608.05021",
+          "authors": "Zetong Xuan and Yu Wang",
+          "details": "accepted, 2026"
+        },
+        {
+          "title": "Exact Model-Free Policy Iteration for Co-Safe LTL Planning",
+          "venue": "IEEE Control Systems Letters",
+          "url": "https://arxiv.org/abs/2608.05047",
+          "authors": "Zetong Xuan and Yu Wang",
+          "details": "vol. 10, pp. 769–774, 2026"
+        },
+        {
+          "title": "A Necessary and Sufficient Condition for the Unique Solution of the Bellman Equation for LTL Surrogate Rewards",
+          "venue": "Research Directions: Cyber-Physical Systems",
+          "url": "https://doi.org/10.1017/cbp.2025.10004",
+          "authors": "Zetong Xuan and Yu Wang",
+          "details": "vol. 3, pp. 1–12, 2026"
+        },
+        {
+          "title": "Topology-Aware Planning Under Linear Temporal Logic Constraints",
+          "venue": "Journal of Applied and Computational Topology",
+          "url": "",
+          "authors": "Dan Guralnik, Yu Wang, and Warren Dixon",
+          "details": "vol. 9, no. 3, pp. 1–41, 2025"
+        }
+      ],
+      "image": "assets/research/reliable-planning.png",
+      "image_alt": "Conceptual illustration of a mobile robot following a safe path around obstacles."
+    }
+  ],
+  "sponsors": [
+    {
+      "name": "U.S. National Science Foundation",
+      "image": "assets/sponsors/nsf.png",
+      "url": "https://www.nsf.gov/"
+    },
+    {
+      "name": "Office of Naval Research",
+      "image": "assets/sponsors/onr.png",
+      "url": "https://www.onr.navy.mil/"
+    },
+    {
+      "name": "Army Research Office",
+      "image": "assets/sponsors/aro.gif",
+      "url": "https://arl.devcom.army.mil/who-we-are/aro/"
+    },
+    {
+      "name": "University of Florida",
+      "image": "assets/sponsors/uf.png",
+      "url": "https://www.ufl.edu/"
+    }
+  ]
+}
